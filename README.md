@@ -1,4 +1,4 @@
-# Simulation-of-Canteen-Flow-Based-on-Cellular-Automata
+# 基于元胞自动机模拟北航学二食堂就餐时间人流拥堵状况
 考虑到仿真难度，部分因素理想化。例如：
 1.不考虑一个桌子坐不满的情况。
 2.不考虑人会局部短暂移动以主动躲避拥堵。
